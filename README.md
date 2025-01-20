@@ -8,7 +8,7 @@ Please create a function that will run multiple linear regression from first pri
 2) Outcome variable
 3) Multiple predictors (the number of predictors should be allowed to vary from application to application)
 
-The minimum output should include the following:
+The minimum output should include the following:  
 a) Parameter estimates for all predictors  
 b) Standard errors for all predictors  
 c) R-squared goodness of fit measure  
