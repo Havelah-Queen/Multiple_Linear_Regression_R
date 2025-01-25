@@ -27,8 +27,8 @@ mlr <- function(dataset, outcome, predictors) {
     stop("The outcome variable cannot be used as a predictor.")
   }
   
-  
-  for(out in outcome){#Handle multiple outcome variables
+  #Handle multiple outcome variables
+  for(out in outcome){
     
     # Check for missing data
     missing_outcome <- any(is.na(dataset[[out]]))
