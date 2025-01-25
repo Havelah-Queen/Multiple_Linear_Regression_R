@@ -1,5 +1,5 @@
 # Multiple Linear Regression Project-R
-Author: Havelah Queen, queenhavelah@gmail.com  
+Author: Havelah Queen, hqueen@bu.edu 
 ## Project Overview
 Developed a linear regression function in RStudio that accommodates multiple outcome variables and   predictor sets while ensuring the validity of input data types and variable names. Implemented checks for missing data, excluding affected rows from analysis. Output included β coefficients, standard errors, R2, adjusted R2, as well as relevant statistics for t-tests and F-tests.
 ## Instructions
