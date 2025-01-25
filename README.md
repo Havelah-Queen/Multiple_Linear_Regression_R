@@ -14,3 +14,4 @@ The minimum output should include the following:
 2) Standard errors for all predictors  
 3) R-squared goodness of fit measure  
 
+[MLR Project Documentation.docx](https://github.com/user-attachments/files/18548056/ProjectBS803_Documentation.docx)
