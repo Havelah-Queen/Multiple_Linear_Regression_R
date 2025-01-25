@@ -18,9 +18,9 @@ The minimum output should include the following:
 ## Description
 mlr is a void function used to perform linear regression with one or more predictors using ordinary least squares and algebra.
 ## Arguments
-dataset: A data frame containing variables in the model.
-outcome: A character or vector of characters that names the chosen response variables from the dataset.
-predictors: A character or vector of characters with names of predictors.
+dataset: A data frame containing variables in the model.  
+outcome: A character or vector of characters that names the chosen response variables from the dataset.  
+predictors: A character or vector of characters with names of predictors.  
 ## Examples
 ### One outcome variable
 mlr() output: 
